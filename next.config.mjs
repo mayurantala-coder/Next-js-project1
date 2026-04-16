@@ -2,8 +2,8 @@
 const nextConfig = {
   /* config options here */
   output: 'export',
-  basePath: '/webdesign/Next-js-project1',
-  assetPrefix: '/webdesign/Next-js-project1/',
+  basePath: '/Next-js-project1',
+  assetPrefix: '/Next-js-project1/',
   images: {
     unoptimized: true,
   },
